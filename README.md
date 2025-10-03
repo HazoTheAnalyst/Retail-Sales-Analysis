@@ -52,5 +52,15 @@ The goal of this project was to analyze retail sales data to uncover trends acro
 ## 📸 Screenshots  
 
 ### Power BI Dashboard  
-![Dashboard](screenshots/dashboard.png)  
+![Dashboard](PowerBI%20Retails20Sales%20Dashboard.png)  
+
+### Pivot Table 1
+![PivotTable1](Pivot%20Table%201.png)  
+
+### Pivot Table 2
+![PivotTable2](Pivot%20Table%202.png) 
+
+### Pivot Table 3
+![PivotTable3](Pivot%20Table%203.png) 
+
 
