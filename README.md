@@ -1,12 +1,12 @@
 # Retail-Sales-Analysis
 End-to-end retail sales analysis using Python, MySQL, Excel, and Power BI
 
-## 📌 Problem Statement  
+##  Problem Statement  
 The goal of this project was to analyze retail sales data to uncover trends across years, product categories, and gender, and to present actionable insights through visualizations and dashboards.  
 
 ---
 
-## 🛠 Tools Used  
+##  Tools Used  
 - **Python (Jupyter Notebook)** → Data cleaning and preprocessing.  
 - **MySQL** → Querying, CTEs, and window functions for analysis.  
 - **Excel** → Pivot tables and charts with insights.  
@@ -14,7 +14,7 @@ The goal of this project was to analyze retail sales data to uncover trends acro
 
 ---
 
-## 🔄 Steps Taken  
+##  Steps Taken  
 1. **Data Cleaning in Python**  
    - Loaded raw dataset into Jupyter Notebook.  
    - Cleaned and transformed columns (dates, totals, categories).  
@@ -42,14 +42,14 @@ The goal of this project was to analyze retail sales data to uncover trends acro
 
 ---
 
-## 📊 Key Insights  
+##  Key Insights  
 - Sales across product categories showed a decline in 2024 compared to 2023.  
 - Female customers led in total sales in 2023, but sales dropped for both genders in 2024.  
 - Overall sales trends suggest seasonality and possible external factors affecting demand.  
 
 ---
 
-## 📸 Screenshots  
+##  Screenshots  
 
 ### Power BI Dashboard  
 ![Dashboard](PowerBI%20Retail%20Sales%20Dashboard.png)  
